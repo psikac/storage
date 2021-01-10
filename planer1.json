@@ -1,0 +1,14 @@
+{
+  "events": [
+    {
+      "description": "tekst",
+      "eventDate": "January 16, 2021 at 4:19:00 PM UTC+1",
+      "title": "Event 1"
+    },
+    {
+      "description": "tekst",
+      "eventDate": "January 15, 2021 at 4:19:00 PM UTC+1",
+      "title": "Event 2"
+    }
+  ]
+}
