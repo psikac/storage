@@ -1,14 +1,12 @@
-{
-  "events": [
-    {
-      "description": "tekst",
-      "eventDate": "January 16, 2021 at 4:19:00 PM UTC+1",
-      "title": "Event 1"
-    },
-    {
-      "description": "tekst",
-      "eventDate": "January 15, 2021 at 4:19:00 PM UTC+1",
-      "title": "Event 2"
-    }
-  ]
-}
+[
+	{
+	  "description": "Dan zaljubljenih",
+	  "eventDate": "2021-02-14 12:00:00",
+	  "title": "Valentinovo"
+	},
+	{
+	  "description": "Dan posvećen ženama",
+	  "eventDate": "2021-03-08 12:00:00",
+	  "title": "Dan žena"
+	}
+]
