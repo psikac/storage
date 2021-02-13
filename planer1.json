@@ -1,5 +1,50 @@
 [
 	{
+	  "description": "Krišćanski blagdan koji slavi uskrsnuće Isusa Krista",
+	  "eventDate": "2021-04-04 00:00:00",
+	  "title": "Uskrs"
+	},
+	{
+	  "description": "Na ovaj dan, u crkvama se spominje put uskrsnulog Isusa u Emaus s dvojicom učenika, koji su ga tek naknadno prepoznali, kada je lomio kruh",
+	  "eventDate": "2021-04-05 00:00:00",
+	  "title": "Uskršnji ponedjeljak"
+	},
+	{
+	  "description": "Međunarodni praznik rada obilježava se kao spomen na velike radničke prosvjede održane u Chicagu dana 1. svibnja 1886. godine, kada je u sukobima s policijom poginulo više radnika, a osmero je radnika osuđeno na smrt.",
+	  "eventDate": "2021-05-01 00:00:00",
+	  "title": "Praznik rada"
+	},
+	{
+	  "description": "Dan državnosti u Republici Hrvatskoj je blagdan koji se obilježava 30. svibnja, u spomen na konstituiranje prvoga demokratski izabranog višestranačkog Sabora 30. svibnja 1990. i na povijesnu ulogu Hrvatskoga sabora u očuvanju hrvatske državnosti tijekom mnogih stoljeća.",
+	  "eventDate": "2021-05-30 00:00:00",
+	  "title": "Dan državnosti"
+	},
+	{
+	  "description": "Tijelovo, punim nazivom Svetkovina Presvetog Tijela i Krvi Kristove je katolički blagdan. Slavi se u četvrtak poslije svetkovine Presvetog Trojstva. U Hrvatskoj je neradni dan. Za Katoličku Crkvu, svetkovina je u spomen na ustanovljenje Euharistije na Veliki četvrtak.",
+	  "eventDate": "2021-06-03 00:00:00",
+	  "title": "Tijelovo"
+	},
+	{
+	  "description": "Dan antifašističke borbe je državni praznik u Republici Hrvatskoj koji se slavi 22. lipnja. Obilježava se u znak sjećanja na 22. lipnja 1941. kad je u šumi Brezovica kod Siska osnovan Prvi sisački partizanski odred, ujedno i prva antihitlerovska postrojba u tadašnjoj okupiranoj Hrvatskoj i Jugoslaviji.",
+	  "eventDate": "2021-06-22 00:00:00",
+	  "title": "Dan antifašističke borbe"
+	},
+	{
+	  "description": "Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja slavi se u Hrvatskoj 5. kolovoza svake godine kao spomen na pobjedu u Domovinskom ratu. Na taj dan 1995. Hrvatska vojska je oslobodila okupirani grad Knin u vojno-redarstvenoj operaciji Oluja.",
+	  "eventDate": "2021-08-05 00:00:00",
+	  "title": "Dan domovinske zahvalnosti"
+	},
+	{
+	  "description": "Velika Gospa dan je svetkovine Uznesenja Blažene Djevice Marije na nebo. Slavi se 15. kolovoza svake godine. Taj je dan i državni blagdan u Republici Hrvatskoj. Na svetkovinu mnoštvo vjernika hodočasti u mnogobrojna Marijina svetišta. Prema katoličkoj teologiji, Marija je uznesena na nebo dušom i tijelom.",
+	  "eventDate": "2021-08-15 00:00:00",
+	  "title": "Velika Gospa"
+	},
+	{
+	  "description": "Svi sveti, svetkovina je u Katoličkoj crkvi, a njome se slave svi sveci, kako oni koji su već kanonizirani, tako i oni koji to još nisu. Slavi se 1. studenoga. U pravoslavnim crkvama ovaj se blagdan slavi prve nedjelje po Duhovima, te označuje završetak uskrsnoga dijela liturgijske godine.",
+	  "eventDate": "2021-11-01 00:00:00",
+	  "title": "Dan svih svetih"
+	},
+	{
 	  "description": "Praznik posvećen žrtvama Domovinskog rata koje su stradale na području Vukovara i Škabrnje",
 	  "eventDate": "2021-11-18 00:00:00",
 	  "title": "Dan sjećanja na žrtve Domovinskog rata i Dan sjećanja na žrtvu Vukovara i Škabrnje"
