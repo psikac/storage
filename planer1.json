@@ -1,5 +1,15 @@
 [
 	{
+	  "description": "Dan zaljubljenih",
+	  "eventDate": "2021-02-14 12:00:00",
+	  "title": "Valentinovo"
+	},
+	{
+	  "description": "Dan posvećen ženama",
+	  "eventDate": "2021-03-08 12:00:00",
+	  "title": "Dan žena"
+	},
+	{
 	  "description": "Krišćanski blagdan koji slavi uskrsnuće Isusa Krista",
 	  "eventDate": "2021-04-04 00:00:00",
 	  "title": "Uskrs"
